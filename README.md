@@ -4,7 +4,4 @@ Welcome to my GitHub profile! I'm a software engineer who loves building innovat
 ## 🚀 About Me  
 - 🌱 Currently learning php and exploring new frameworks and tools like laravel.  
 - 💻 Skilled in HTML, CSS, JavaScript, React and Flutter.  
-- 🎯 Focused on creating impactful and efficient software.  
-
-## 📈 GitHub Stats  
-![Habib Elias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HabibElias&show_icons=true&theme=radical)  
+- 🎯 Focused on creating impactful and efficient software.
