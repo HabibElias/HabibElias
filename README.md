@@ -3,5 +3,5 @@ Welcome to my GitHub profile! I'm a software engineer who loves building innovat
 
 ## 🚀 About Me  
 - 🌱 Currently learning golang and nuxt. 
-- 💻 Skilled in HTML, CSS, JavaScript, React, Vue, Laravel and Flutter.  
+- 💻 Skilled in HTML, CSS, JavaScript, React, Vue, Golang, Laravel and Flutter.  
 - 🎯 Focused on creating impactful and efficient software.
